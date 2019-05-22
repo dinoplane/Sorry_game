@@ -23,4 +23,7 @@ it journey again.
 The game will also check if a player has won. If all pawns have traveled once around the board and landed back home,
 the game will report that the player has won. If one would like to play again, they would need to reset the arduino.
 
-
+# How to play
+You would need 2 arduinos for this game.
+Upload the master code to the master arduino and the slave code to the slave arduino.
+Once the slave code has been loaded, the slave arduino doesn't need to be plugged into the pc.
